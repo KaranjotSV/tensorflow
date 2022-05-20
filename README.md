@@ -1,2 +1,2 @@
 # tensorflow
-trying to work around with tensorflow version 1.15 and neural network implementations
+trying to work around with version 1.15 and neural network implementations
